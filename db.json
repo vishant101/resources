@@ -1,14 +1,27 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+	"posts": [
+		{ 	
+			"messageId": 1,
+			"senderId": 1,
+			"senderName": "Jane Wild",
+			"sentMessage": false,
+			"messageText": "Hey hows it going?",
+			"timeStamp": 1549606452000
+		},
+		{ 
+			"messageId": 2,
+			"senderId": 1,
+			"senderName": "Jane Wild",
+			"sentMessage": false,
+			"messageText": "Do you want to catch up later today?",
+			"timeStamp": 1549606452000
+		}
+	],
+	"comments": [
+		{ "id": 1, "body": "some comment", "postId": 1 },
+		{ "id": 2, "body": "some comment", "postId": 1 }
+	],
+	"profile": {
+		"name": "typicode"
+	}
+}

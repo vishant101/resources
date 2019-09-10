@@ -3,7 +3,7 @@
 		{ 	
 			"messageId": 1,
 			"senderId": 1,
-			"senderName": "Jane Wild",
+			"senderName": "John Doe",
 			"sentMessage": true,
 			"messageText": "Hey",
 			"timeStamp": 1549606451000
@@ -23,6 +23,14 @@
 			"sentMessage": false,
 			"messageText": "Do you want to catch up later today?",
 			"timeStamp": 1549606452001
+		},
+		{ 
+			"messageId": 3,
+			"senderId": 2,
+			"senderName": "Jane Wild",
+			"sentMessage": false,
+			"messageText": "Hey you still there?",
+			"timeStamp": 1568096360000
 		}
 	],
 	"comments": [

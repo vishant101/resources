@@ -31,6 +31,14 @@
 			"sentMessage": false,
 			"messageText": "Hey you still there?",
 			"timeStamp": 1568096360000
+		},
+		{ 
+			"messageId": 5,
+			"senderId": 1,
+			"senderName": "John Doe",
+			"sentMessage": true,
+			"messageText": "Yea Still Here",
+			"timeStamp": 1568096360020
 		}
 	],
 	"comments": [

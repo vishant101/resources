@@ -30,7 +30,7 @@
 			"senderName": "Jane Wild",
 			"sentMessage": false,
 			"messageText": "Hey you still there?",
-			"timeStamp": 156809636
+			"timeStamp": 1568096364
 		},
 		{ 
 			"messageId": 5,
@@ -38,7 +38,7 @@
 			"senderName": "John Doe",
 			"sentMessage": true,
 			"messageText": "Yea Still Here",
-			"timeStamp": 156809637
+			"timeStamp": 1568096376
 		}
 	],
 	"comments": [

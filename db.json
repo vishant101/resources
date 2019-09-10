@@ -1,25 +1,22 @@
 {
-	"posts": { 
-		"messages": 
-			[
-				{ 	
-					"messageId": 1,
-					"senderId": 1,
-					"senderName": "Jane Wild",
-					"sentMessage": false,
-					"messageText": "Hey hows it going?",
-					"timeStamp": 1549606452000
-				},
-				{ 
-					"messageId": 2,
-					"senderId": 1,
-					"senderName": "Jane Wild",
-					"sentMessage": false,
-					"messageText": "Do you want to catch up later today?",
-					"timeStamp": 1549606452001
-				}
-			]
-	},
+	"posts": [
+		{ 	
+			"messageId": 1,
+			"senderId": 1,
+			"senderName": "Jane Wild",
+			"sentMessage": false,
+			"messageText": "Hey hows it going?",
+			"timeStamp": 1549606452000
+		},
+		{ 
+			"messageId": 2,
+			"senderId": 1,
+			"senderName": "Jane Wild",
+			"sentMessage": false,
+			"messageText": "Do you want to catch up later today?",
+			"timeStamp": 1549606452001
+		}
+	],
 	"comments": [
 		{ "id": 1, "body": "some comment", "postId": 1 },
 		{ "id": 2, "body": "some comment", "postId": 1 }

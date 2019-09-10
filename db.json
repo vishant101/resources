@@ -6,7 +6,7 @@
 			"senderName": "John Doe",
 			"sentMessage": true,
 			"messageText": "Hey",
-			"timeStamp": 1549606451000
+			"timeStamp": 1549606451
 		},
 		{ 	
 			"messageId": 2,
@@ -14,7 +14,7 @@
 			"senderName": "Jane Wild",
 			"sentMessage": false,
 			"messageText": "Hey hows it going?",
-			"timeStamp": 1549606452000
+			"timeStamp": 1549606452
 		},
 		{ 
 			"messageId": 3,
@@ -22,7 +22,7 @@
 			"senderName": "Jane Wild",
 			"sentMessage": false,
 			"messageText": "Do you want to catch up later today?",
-			"timeStamp": 1549606452001
+			"timeStamp": 1549606453
 		},
 		{ 
 			"messageId": 4,
@@ -30,7 +30,7 @@
 			"senderName": "Jane Wild",
 			"sentMessage": false,
 			"messageText": "Hey you still there?",
-			"timeStamp": 1568096360000
+			"timeStamp": 156809636
 		},
 		{ 
 			"messageId": 5,
@@ -38,7 +38,7 @@
 			"senderName": "John Doe",
 			"sentMessage": true,
 			"messageText": "Yea Still Here",
-			"timeStamp": 1568096360020
+			"timeStamp": 156809637
 		}
 	],
 	"comments": [

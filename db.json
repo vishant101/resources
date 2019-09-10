@@ -4,13 +4,21 @@
 			"messageId": 1,
 			"senderId": 1,
 			"senderName": "Jane Wild",
+			"sentMessage": true,
+			"messageText": "Hey",
+			"timeStamp": 1549606451000
+		},
+		{ 	
+			"messageId": 2,
+			"senderId": 2,
+			"senderName": "Jane Wild",
 			"sentMessage": false,
 			"messageText": "Hey hows it going?",
 			"timeStamp": 1549606452000
 		},
 		{ 
-			"messageId": 2,
-			"senderId": 1,
+			"messageId": 3,
+			"senderId": 2,
 			"senderName": "Jane Wild",
 			"sentMessage": false,
 			"messageText": "Do you want to catch up later today?",
